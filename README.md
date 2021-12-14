@@ -57,4 +57,8 @@ In order to grade your assignment, you will need to submit a 5 minutes or less d
 9.Finally, press "Save" to return to your inventory.
 
 
+
+https://user-images.githubusercontent.com/22343548/145966380-0c9ba13d-1c02-498c-8a08-b14cf00a64b0.mp4
+
+
 .
