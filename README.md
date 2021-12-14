@@ -41,7 +41,7 @@ will test your ability to translate the UML class diagram into Java code. When y
 
 Then compress the folder into a ZIP archive. Windows users can use 7zip or WinRAR. Upload it where prompted.
 
-# [Part 2 Submission](https://img.shields.io/badge/Part%202%20Submission%20-DEMO%20video-green)
+# ![Part 2 Submission](https://img.shields.io/badge/Part%202%20Submission%20-DEMO%20video-green)
 will test the correctness of your code
 
 In order to grade your assignment, you will need to submit a 5 minutes or less demo video of your app that shows the following steps as a continuous interaction without crashing (if possible):
