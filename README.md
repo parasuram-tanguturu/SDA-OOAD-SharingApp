@@ -36,8 +36,8 @@ Submission Instructions
 # ![Part 1 Submission](https://img.shields.io/badge/Part%201%20Submission%20-UML%20to%20code-green)
 will test your ability to translate the UML class diagram into Java code. When you are ready to submit your code, include the following two files in a folder:
 
-- #Contact.java
-- #ContactList.java
+- ### Contact.java
+- ### ContactList.java
 
 Then compress the folder into a ZIP archive. Windows users can use 7zip or WinRAR. Upload it where prompted.
 
