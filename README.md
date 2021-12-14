@@ -27,13 +27,13 @@ This version of the app should accommodate the new contacts feature. In particul
 
 
 
-- Owners are now required to select a contact to be the borrower of an item when changing the status of an item from “Available” to “Borrowed”. That is, it is no longer sufficient to enter the borrower’s username as a string -- now the borrower must be picked from the owner’s list of contacts.
+- Owners are now required to select a contact to be the borrower of an item when changing the status of an item from "Available" to "Borrowed". That is, it is no longer sufficient to enter the borrower's username as a string -- now the borrower must be picked from the owner's list of contacts.
 
 ![image](https://user-images.githubusercontent.com/22343548/145955948-431b7bdb-0b0b-4cad-a76a-d3b6c9421023.png) | ![image](https://user-images.githubusercontent.com/22343548/145955971-72afb926-cb87-4bde-ac0b-4969e566353d.png) | ![image](https://user-images.githubusercontent.com/22343548/145955971-72afb926-cb87-4bde-ac0b-4969e566353d.png)
 
 Submission Instructions
 
-# Part 1 Submission 
+# ![Part 1 Submission](https://img.shields.io/badge/Part%201%20Submission%20-UML%20to%20code-green)
 will test your ability to translate the UML class diagram into Java code. When you are ready to submit your code, include the following two files in a folder:
 
 - #Contact.java
@@ -41,7 +41,7 @@ will test your ability to translate the UML class diagram into Java code. When y
 
 Then compress the folder into a ZIP archive. Windows users can use 7zip or WinRAR. Upload it where prompted.
 
-# Part 2 Submission 
+# [Part 2 Submission](https://img.shields.io/badge/Part%202%20Submission%20-DEMO%20video-green)
 will test the correctness of your code
 
 In order to grade your assignment, you will need to submit a 5 minutes or less demo video of your app that shows the following steps as a continuous interaction without crashing (if possible):
