@@ -3,13 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/activity_add_contact.xml" value="0.3723958333333333" />
         <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/activity_add_item.xml" value="0.4" />
+        <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/activity_contacts.xml" value="0.3723958333333333" />
+        <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/activity_edit_contact.xml" value="0.20989583333333334" />
         <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/activity_edit_item.xml" value="0.3723958333333333" />
         <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/activity_main.xml" value="0.3723958333333333" />
         <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/all_items_fragment.xml" value="0.3723958333333333" />
         <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/available_items_fragment.xml" value="0.3723958333333333" />
         <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/borrowed_items_fragment.xml" value="0.3723958333333333" />
+        <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/contactlist_contact.xml" value="0.3723958333333333" />
         <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/layout/itemlist_item.xml" value="0.3723958333333333" />
+        <entry key="..\:/LEARNINGS/Unsorted List/SharingApp/app/src/main/res/menu/menu_main.xml" value="0.3723958333333333" />
       </map>
     </option>
   </component>
